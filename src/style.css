@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #0f1115;
+}
+
+#app {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  outline: none;
+}
